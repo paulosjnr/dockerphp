@@ -1,8 +1,5 @@
 <?php
 
+echo "teste paulo asds";
 
-function teste(){
-    return "teste";
-};
-
-echo teste();
+echo "la ele";
