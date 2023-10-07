@@ -2,4 +2,4 @@
 
 echo "teste paulo asds";
 
-echo "la ele";
+// removido o la ele
