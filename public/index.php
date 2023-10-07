@@ -1,3 +1,8 @@
 <?php
 
-echo "teste paulo";
+
+function teste(){
+    return "teste";
+};
+
+echo teste();
